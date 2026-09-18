@@ -1,0 +1,21 @@
+# deps
+node_modules/
+
+# builds
+client/dist/
+client/build/
+
+# env
+server/.env
+client/.env
+client/.env.local
+.env
+
+# logs / os
+npm-debug.log*
+*.log
+.DS_Store
+Thumbs.db
+
+# zips
+*.zip
